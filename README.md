@@ -1,4 +1,4 @@
 # nike_store
 
-(nike.png)
-(nike2.png)
+![تصویر ۱](nike.png)
+![تصویر ۲](nike2.png)
